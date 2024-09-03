@@ -1,2 +1,2 @@
-Welcome to Edunet Foundation 
-Happy Learning
+Welcome to the Edunet Foundation 
+Python Programming
